@@ -1,0 +1,22 @@
+{
+  "wallpapers" : {
+
+    "people": {
+      "indianCelebrities" :{
+        "male" : "http://www.santabanta.com/wallpapers/indian-celebrities(m)/1/",
+        "female" : "http://www.santabanta.com/wallpapers/indian-celebrities(f)/2/"
+      },
+      "globalCelebrities":{
+        "male" : "http://www.santabanta.com/wallpapers/global-celebrities(m)/7/",
+        "female" : "http://www.santabanta.com/wallpapers/global-celebrities(f)/8/"
+      },
+      "pakistaniCelebrities":{
+        "female" : "http://www.santabanta.com/wallpapers/pakistani-celebs(f)/26/"
+      }
+    }
+
+
+
+  }
+
+}
