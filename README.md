@@ -1,4 +1,4 @@
-# hawas
+# Hawas
 
 > webscrapping scripts with [Golang](https://golang.org/), [Python](https://www.python.org/) for
 
